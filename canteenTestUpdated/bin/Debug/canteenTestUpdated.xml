@@ -1,0 +1,280 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+canteenTestUpdated
+</name>
+</assembly>
+<members>
+<member name="T:canteenTestUpdated.trans.TransactionssDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.trans.TransactionssRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.trans.TransactionssRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.trans">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:canteenTestUpdated.transTableAdapters.TransactionssAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.transs.TransactionItemsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.transs.TransactionItemsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.transs.TransactionItemsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.transs">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:canteenTestUpdated.transsTableAdapters.TransactionItemsAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:canteenTestUpdated.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:canteenTestUpdated.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:canteenTestUpdated.My.Resources.Resources._1486071985_10_79327">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:canteenTestUpdated.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.AdminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.CategoryItemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.TransactionItemsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.TransactionssDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.OrderitemsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.DataTable2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.DataTable3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.CatTransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.CatTrans2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.AdminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.CategoryItemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.TransactionItemsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.TransactionssRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.OrderitemsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.DataTable2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.DataTable3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.CatTransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.CatTrans2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.AdminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.CategoryItemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.TransactionItemsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.TransactionssRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.OrderitemsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.DataTable2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.DataTable3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.CatTransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet.CatTrans2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.AdminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.CategoryItemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.TransactionItemsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.TransactionssTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.OrderitemsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.DataTable2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.DataTable3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.CatTransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.CatTrans2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:canteenTestUpdated.CanteenDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(canteenTestUpdated.CanteenDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:canteenTestUpdated.CanteenDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(canteenTestUpdated.CanteenDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:canteenTestUpdated.CanteenDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(canteenTestUpdated.CanteenDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:canteenTestUpdated.CanteenDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:canteenTestUpdated.CanteenDataSetTableAdapters.TableAdapterManager.UpdateAll(canteenTestUpdated.CanteenDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:canteenTestUpdated.CanteenDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
